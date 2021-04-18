@@ -1,0 +1,1 @@
+Use Gephi software to open the file.
